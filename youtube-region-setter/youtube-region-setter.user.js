@@ -1,11 +1,11 @@
 // ==UserScript==
 // @run-at      document-start
 // @version     1.0.0
-// @name        YouTube and Google region setter.
+// @name        YouTube and Google region setter
 // @namespace   https://github.com/emmaexe/userscripts
 // @author      emmaexe
 // @description Youtube and google regularly change your region based on your IP. This userscript automatically sets it to your preferred region instead.
-// @licence     GPL-3.0
+// @license     GPL-3.0
 // @homepageURL https://github.com/emmaexe/userscripts
 // @supportURL  https://github.com/emmaexe/userscripts/issues
 // @include     *://youtube.*/*

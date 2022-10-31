@@ -1,11 +1,11 @@
 // ==UserScript==
 // @run-at      document-start
 // @version     1.0.0
-// @name        YouTube shorts redirector.
+// @name        YouTube shorts redirector
 // @namespace   https://github.com/emmaexe/userscripts
 // @author      emmaexe
 // @description Redirect all youtube shorts to the regular youtube player.
-// @licence     GPL-3.0
+// @license     GPL-3.0
 // @homepageURL https://github.com/emmaexe/userscripts
 // @supportURL  https://github.com/emmaexe/userscripts/issues
 // @include     *://youtube.*/*

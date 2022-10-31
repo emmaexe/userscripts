@@ -10,7 +10,7 @@
 // @supportURL  https://github.com/emmaexe/userscripts/issues
 // @include     *://youtube.*/*
 // @include     *://*.youtube.*/*
-// @icon        https://github.com/emmaexe/userscripts/youtube-shorts-redirector/assets/youtube-ico-32.png
+// @icon        https://raw.githubusercontent.com/emmaexe/userscripts/main/youtube-shorts-redirector/assets/youtube-ico-32.png
 // @grant       none
 // ==/UserScript==
 

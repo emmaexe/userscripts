@@ -10,7 +10,7 @@
 // @supportURL  https://github.com/emmaexe/userscripts/issues
 // @include     *://youtube.*/*
 // @include     *://*.youtube.*/*
-// @icon        https://github.com/emmaexe/userscripts/youtube-404-replacer/assets/youtube-ico-32.png
+// @icon        https://raw.githubusercontent.com/emmaexe/userscripts/main/youtube-404-replacer/assets/youtube-ico-32.png
 // @grant       none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ youtube_monke_parent = document.getElementsByClassName('not-found-content')[0];
 youtube_monke = document.getElementsByClassName('not-found-content__image')[0];
 if (youtube_monke === undefined) youtube_monke = document.getElementById('error-page-hh-illustration');
 if (youtube_monke != undefined) {
-    youtube_monke.src = "https://github.com/emmaexe/userscripts/youtube-404-replacer/assets/youtube-monkey.png";
+    youtube_monke.src = "https://raw.githubusercontent.com/emmaexe/userscripts/main/youtube-404-replacer/assets/youtube-monkey.png";
     youtube_monke.width = 186;
     youtube_monke.height = 186;
     let newAnchor = document.createElement("a");

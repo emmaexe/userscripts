@@ -12,7 +12,7 @@
 // @include     *://*.youtube.*/*
 // @include     *://www.google.com/*
 // @exclude     *://www.google.com/a/*
-// @icon        https://github.com/emmaexe/userscripts/youtube-region-setter/assets/youtube-ico-32.png
+// @icon        https://raw.githubusercontent.com/emmaexe/userscripts/main/youtube-region-setter/assets/youtube-ico-32.png
 // @grant       GM.registerMenuCommand
 // @grant       GM.getValue
 // @grant       GM.setValue

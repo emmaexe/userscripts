@@ -5,7 +5,7 @@
 // @namespace   https://github.com/emmaexe/userscripts
 // @author      emmaexe
 // @description Replaces the YouTube 404 page monkey with a better one made by @dinoboirex1.
-// @license     GPL-3.0
+// @license     GPL-3.0-only
 // @homepageURL https://github.com/emmaexe/userscripts
 // @supportURL  https://github.com/emmaexe/userscripts/issues
 // @include     *://youtube.*/*

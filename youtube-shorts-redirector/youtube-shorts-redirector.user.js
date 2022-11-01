@@ -5,7 +5,7 @@
 // @namespace   https://github.com/emmaexe/userscripts
 // @author      emmaexe
 // @description Redirect all youtube shorts to the regular youtube player.
-// @license     GPL-3.0
+// @license     GPL-3.0-only
 // @homepageURL https://github.com/emmaexe/userscripts
 // @supportURL  https://github.com/emmaexe/userscripts/issues
 // @include     *://youtube.*/*

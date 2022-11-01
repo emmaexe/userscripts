@@ -5,7 +5,7 @@
 // @namespace   https://github.com/emmaexe/userscripts
 // @author      emmaexe
 // @description Youtube and google regularly change your region based on your IP. This userscript automatically sets it to your preferred region instead.
-// @license     GPL-3.0
+// @license     GPL-3.0-only
 // @homepageURL https://github.com/emmaexe/userscripts
 // @supportURL  https://github.com/emmaexe/userscripts/issues
 // @include     *://youtube.*/*

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @run-at      document-start
-// @version     1.0.0
+// @version     1.0.1
 // @name        YouTube and Google region setter
 // @namespace   https://github.com/emmaexe/userscripts
 // @author      emmaexe

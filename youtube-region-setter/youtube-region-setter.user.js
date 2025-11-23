@@ -12,6 +12,7 @@
 // @include     *://*.youtube.*/*
 // @include     *://www.google.com/*
 // @exclude     *://www.google.com/a/*
+// @noframes
 // @icon        https://raw.githubusercontent.com/emmaexe/userscripts/main/youtube-region-setter/assets/youtube-ico-32.png
 // @grant       GM.registerMenuCommand
 // @grant       GM.getValue
